@@ -1,0 +1,8 @@
+E:\Sheket\FutureNavigation\FutureNavigation\bin\Debug\FutureNavigation.exe.config
+E:\Sheket\FutureNavigation\FutureNavigation\bin\Debug\FutureNavigation.exe
+E:\Sheket\FutureNavigation\FutureNavigation\bin\Debug\FutureNavigation.pdb
+E:\Sheket\FutureNavigation\FutureNavigation\obj\Debug\FutureNavigation.csproj.AssemblyReference.cache
+E:\Sheket\FutureNavigation\FutureNavigation\obj\Debug\FutureNavigation.csproj.SuggestedBindingRedirects.cache
+E:\Sheket\FutureNavigation\FutureNavigation\obj\Debug\FutureNavigation.csproj.CoreCompileInputs.cache
+E:\Sheket\FutureNavigation\FutureNavigation\obj\Debug\FutureNavigation.exe
+E:\Sheket\FutureNavigation\FutureNavigation\obj\Debug\FutureNavigation.pdb
